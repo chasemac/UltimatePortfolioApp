@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E53988425C73F1A00E2634E /* ProjectHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53988325C73F1A00E2634E /* ProjectHeaderView.swift */; };
 		0E54CAA925C5D95500D4EC42 /* UltimatePortfolioAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CAA825C5D95500D4EC42 /* UltimatePortfolioAppApp.swift */; };
 		0E54CAAB25C5D95500D4EC42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CAAA25C5D95500D4EC42 /* ContentView.swift */; };
 		0E54CAAD25C5D95800D4EC42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E54CAAC25C5D95800D4EC42 /* Assets.xcassets */; };
@@ -20,9 +21,11 @@
 		0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95225C6341500AD3EB2 /* Project-CoreDataHelpers.swift */; };
 		0EE0C95625C653D300AD3EB2 /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95525C653D300AD3EB2 /* EditItemView.swift */; };
 		0EE0C95925C658A200AD3EB2 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */; };
+		0EE0C95C25C65AE500AD3EB2 /* Binding-OnChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95B25C65AE500AD3EB2 /* Binding-OnChange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E53988325C73F1A00E2634E /* ProjectHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectHeaderView.swift; sourceTree = "<group>"; };
 		0E54CAA525C5D95500D4EC42 /* UltimatePortfolioApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UltimatePortfolioApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E54CAA825C5D95500D4EC42 /* UltimatePortfolioAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UltimatePortfolioAppApp.swift; sourceTree = "<group>"; };
 		0E54CAAA25C5D95500D4EC42 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +42,7 @@
 		0EE0C95225C6341500AD3EB2 /* Project-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project-CoreDataHelpers.swift"; sourceTree = "<group>"; };
 		0EE0C95525C653D300AD3EB2 /* EditItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
 		0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRowView.swift; sourceTree = "<group>"; };
+		0EE0C95B25C65AE500AD3EB2 /* Binding-OnChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binding-OnChange.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				0E54CAAA25C5D95500D4EC42 /* ContentView.swift */,
 				0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */,
 				0EE0C95525C653D300AD3EB2 /* EditItemView.swift */,
+				0E53988325C73F1A00E2634E /* ProjectHeaderView.swift */,
+				0EE0C95B25C65AE500AD3EB2 /* Binding-OnChange.swift */,
 				0E54CAB825C5DC0300D4EC42 /* Main.xcdatamodeld */,
 				0E54CABC25C5DF3C00D4EC42 /* DataController.swift */,
 				0E54CACA25C62AA100D4EC42 /* Item-CoreDataHelpers.swift */,
@@ -177,11 +183,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E54CAC825C5EEA700D4EC42 /* ProjectsView.swift in Sources */,
+				0E53988425C73F1A00E2634E /* ProjectHeaderView.swift in Sources */,
 				0E54CABA25C5DC0300D4EC42 /* Main.xcdatamodeld in Sources */,
 				0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */,
 				0E54CACB25C62AA100D4EC42 /* Item-CoreDataHelpers.swift in Sources */,
 				0EE0C95925C658A200AD3EB2 /* ItemRowView.swift in Sources */,
 				0E54CABD25C5DF3C00D4EC42 /* DataController.swift in Sources */,
+				0EE0C95C25C65AE500AD3EB2 /* Binding-OnChange.swift in Sources */,
 				0E54CAAB25C5D95500D4EC42 /* ContentView.swift in Sources */,
 				0E54CAC525C5EE2100D4EC42 /* HomeView.swift in Sources */,
 				0E54CAA925C5D95500D4EC42 /* UltimatePortfolioAppApp.swift in Sources */,
