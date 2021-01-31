@@ -18,6 +18,8 @@
 		0E54CAC825C5EEA700D4EC42 /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CAC725C5EEA700D4EC42 /* ProjectsView.swift */; };
 		0E54CACB25C62AA100D4EC42 /* Item-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CACA25C62AA100D4EC42 /* Item-CoreDataHelpers.swift */; };
 		0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95225C6341500AD3EB2 /* Project-CoreDataHelpers.swift */; };
+		0EE0C95625C653D300AD3EB2 /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95525C653D300AD3EB2 /* EditItemView.swift */; };
+		0EE0C95925C658A200AD3EB2 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		0E54CAC725C5EEA700D4EC42 /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
 		0E54CACA25C62AA100D4EC42 /* Item-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item-CoreDataHelpers.swift"; sourceTree = "<group>"; };
 		0EE0C95225C6341500AD3EB2 /* Project-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project-CoreDataHelpers.swift"; sourceTree = "<group>"; };
+		0EE0C95525C653D300AD3EB2 /* EditItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
+		0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 				0E54CAC425C5EE2100D4EC42 /* HomeView.swift */,
 				0E54CAC725C5EEA700D4EC42 /* ProjectsView.swift */,
 				0E54CAAA25C5D95500D4EC42 /* ContentView.swift */,
+				0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */,
+				0EE0C95525C653D300AD3EB2 /* EditItemView.swift */,
 				0E54CAB825C5DC0300D4EC42 /* Main.xcdatamodeld */,
 				0E54CABC25C5DF3C00D4EC42 /* DataController.swift */,
 				0E54CACA25C62AA100D4EC42 /* Item-CoreDataHelpers.swift */,
@@ -174,10 +180,12 @@
 				0E54CABA25C5DC0300D4EC42 /* Main.xcdatamodeld in Sources */,
 				0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */,
 				0E54CACB25C62AA100D4EC42 /* Item-CoreDataHelpers.swift in Sources */,
+				0EE0C95925C658A200AD3EB2 /* ItemRowView.swift in Sources */,
 				0E54CABD25C5DF3C00D4EC42 /* DataController.swift in Sources */,
 				0E54CAAB25C5D95500D4EC42 /* ContentView.swift in Sources */,
 				0E54CAC525C5EE2100D4EC42 /* HomeView.swift in Sources */,
 				0E54CAA925C5D95500D4EC42 /* UltimatePortfolioAppApp.swift in Sources */,
+				0EE0C95625C653D300AD3EB2 /* EditItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
