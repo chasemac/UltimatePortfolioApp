@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E26EC3925C86135001D54AE /* Color-Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E26EC3825C86135001D54AE /* Color-Additions.swift */; };
 		0E53988425C73F1A00E2634E /* ProjectHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53988325C73F1A00E2634E /* ProjectHeaderView.swift */; };
 		0E53988725C7471300E2634E /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E53988625C7471300E2634E /* Colors.xcassets */; };
 		0E53988A25C7499E00E2634E /* EditProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53988925C7499E00E2634E /* EditProjectView.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E26EC3825C86135001D54AE /* Color-Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Additions.swift"; sourceTree = "<group>"; };
 		0E53988325C73F1A00E2634E /* ProjectHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectHeaderView.swift; sourceTree = "<group>"; };
 		0E53988625C7471300E2634E /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		0E53988925C7499E00E2634E /* EditProjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProjectView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				0E53989625C7ADDE00E2634E /* Awards.json */,
 				0E53989925C7AE5600E2634E /* Award.swift */,
 				0E53989C25C7AF5500E2634E /* AwardsView.swift */,
+				0E26EC3825C86135001D54AE /* Color-Additions.swift */,
 				0E54CAAC25C5D95800D4EC42 /* Assets.xcassets */,
 				0E53988625C7471300E2634E /* Colors.xcassets */,
 				0E54CAB125C5D95800D4EC42 /* Info.plist */,
@@ -213,6 +216,7 @@
 				0E53989D25C7AF5500E2634E /* AwardsView.swift in Sources */,
 				0E54CABA25C5DC0300D4EC42 /* Main.xcdatamodeld in Sources */,
 				0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */,
+				0E26EC3925C86135001D54AE /* Color-Additions.swift in Sources */,
 				0E53988A25C7499E00E2634E /* EditProjectView.swift in Sources */,
 				0E54CACB25C62AA100D4EC42 /* Item-CoreDataHelpers.swift in Sources */,
 				0E53989125C79BAB00E2634E /* SelectSomethingView.swift in Sources */,
