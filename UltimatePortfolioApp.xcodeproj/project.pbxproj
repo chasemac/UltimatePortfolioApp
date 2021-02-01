@@ -107,7 +107,6 @@
 				0E53988925C7499E00E2634E /* EditProjectView.swift */,
 				0EE0C95B25C65AE500AD3EB2 /* Binding-OnChange.swift */,
 				0E54CAB825C5DC0300D4EC42 /* Main.xcdatamodeld */,
-				0E54CABC25C5DF3C00D4EC42 /* DataController.swift */,
 				0E54CACA25C62AA100D4EC42 /* Item-CoreDataHelpers.swift */,
 				0EE0C95225C6341500AD3EB2 /* Project-CoreDataHelpers.swift */,
 				0E53989625C7ADDE00E2634E /* Awards.json */,
@@ -116,6 +115,7 @@
 				0E54CAAC25C5D95800D4EC42 /* Assets.xcassets */,
 				0E53988625C7471300E2634E /* Colors.xcassets */,
 				0E54CAB125C5D95800D4EC42 /* Info.plist */,
+				0E54CABC25C5DF3C00D4EC42 /* DataController.swift */,
 				0E54CAAE25C5D95800D4EC42 /* Preview Content */,
 			);
 			path = UltimatePortfolioApp;
