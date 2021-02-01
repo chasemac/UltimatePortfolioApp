@@ -11,6 +11,7 @@
 		0E53988725C7471300E2634E /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E53988625C7471300E2634E /* Colors.xcassets */; };
 		0E53988A25C7499E00E2634E /* EditProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53988925C7499E00E2634E /* EditProjectView.swift */; };
 		0E53988E25C76C2000E2634E /* Sequence-Sorting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53988D25C76C2000E2634E /* Sequence-Sorting.swift */; };
+		0E53989125C79BAB00E2634E /* SelectSomethingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E53989025C79BAB00E2634E /* SelectSomethingView.swift */; };
 		0E54CAA925C5D95500D4EC42 /* UltimatePortfolioAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CAA825C5D95500D4EC42 /* UltimatePortfolioAppApp.swift */; };
 		0E54CAAB25C5D95500D4EC42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E54CAAA25C5D95500D4EC42 /* ContentView.swift */; };
 		0E54CAAD25C5D95800D4EC42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E54CAAC25C5D95800D4EC42 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		0E53988625C7471300E2634E /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		0E53988925C7499E00E2634E /* EditProjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProjectView.swift; sourceTree = "<group>"; };
 		0E53988D25C76C2000E2634E /* Sequence-Sorting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequence-Sorting.swift"; sourceTree = "<group>"; };
+		0E53989025C79BAB00E2634E /* SelectSomethingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectSomethingView.swift; sourceTree = "<group>"; };
 		0E54CAA525C5D95500D4EC42 /* UltimatePortfolioApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UltimatePortfolioApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E54CAA825C5D95500D4EC42 /* UltimatePortfolioAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UltimatePortfolioAppApp.swift; sourceTree = "<group>"; };
 		0E54CAAA25C5D95500D4EC42 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				0E54CAA825C5D95500D4EC42 /* UltimatePortfolioAppApp.swift */,
 				0E54CAC425C5EE2100D4EC42 /* HomeView.swift */,
 				0E54CAC725C5EEA700D4EC42 /* ProjectsView.swift */,
+				0E53989025C79BAB00E2634E /* SelectSomethingView.swift */,
 				0E54CAAA25C5D95500D4EC42 /* ContentView.swift */,
 				0E53988D25C76C2000E2634E /* Sequence-Sorting.swift */,
 				0EE0C95825C658A200AD3EB2 /* ItemRowView.swift */,
@@ -198,6 +201,7 @@
 				0EE0C95325C6341500AD3EB2 /* Project-CoreDataHelpers.swift in Sources */,
 				0E53988A25C7499E00E2634E /* EditProjectView.swift in Sources */,
 				0E54CACB25C62AA100D4EC42 /* Item-CoreDataHelpers.swift in Sources */,
+				0E53989125C79BAB00E2634E /* SelectSomethingView.swift in Sources */,
 				0EE0C95925C658A200AD3EB2 /* ItemRowView.swift in Sources */,
 				0E54CABD25C5DF3C00D4EC42 /* DataController.swift in Sources */,
 				0EE0C95C25C65AE500AD3EB2 /* Binding-OnChange.swift in Sources */,
