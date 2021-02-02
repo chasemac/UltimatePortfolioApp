@@ -21,7 +21,7 @@ struct UltimatePortfolioAppApp: App {
                 .environment(\.managedObjectContext, dataController.container.viewContext)
                 .environmentObject(dataController)
                 .onReceive(
-                    // Automatically save when we detext that we are no longer
+                    // Automatically save when we detect that we are no longer
                     // the foreground app. Use this rather than the scene phase
                     // API so we can port to macOS, where scene phase won't detect
                     // our app losing focus as of macOS 11.1
