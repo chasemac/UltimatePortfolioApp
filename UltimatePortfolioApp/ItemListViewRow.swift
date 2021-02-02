@@ -19,7 +19,7 @@ struct ItemListViewRow: View {
                     .font(.title2)
                     .foregroundColor(.primary)
                     .frame(maxWidth: .infinity, alignment: .leading)
-                
+
                 if item.itemDetail.isEmpty == false {
                     Text(item.itemDetail)
                         .foregroundColor(.secondary)
